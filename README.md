@@ -13,7 +13,9 @@ This github follows part of my learning development, and I occasionally post lar
 
 
 
-- 😄 Pronouns: she/her
+[Instagram @nedzmabrr](https://www.instagram.com/nedzmabrr/)
+[Facebook @NedžmaBrkić](https://www.facebook.com/nedzma.brkic.1/)
+[LinkedIn @NedžmaBrkić](https://www.linkedin.com/in/ned%C5%BEma-brki%C4%87-116a37229/)
 
 
 <!--
