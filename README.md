@@ -4,7 +4,7 @@ Hello stranger 👋
  
  - 🌱 I am currently learning to work at ABB RobotStudio, as well as the object-oriented programming language c ++ because it is most prevalent in the robotics industry, where I want to work as a software engineer.
 
-This github follows part of my learning development, and I occasionally post larger projects that progress day by day in complexity. Wish me luck, and follow my progress. : D
+This github follows little part of my learning development, and I occasionally post larger projects that progress day by day in complexity. Wish me luck, and follow my progress. : D
 
   How to reach me:
  [Instagram @nedzmabrr](https://www.instagram.com/nedzmabrr/)
