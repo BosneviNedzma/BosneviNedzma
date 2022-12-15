@@ -1,9 +1,5 @@
 Hello stranger 👋
 
- The field that interests me in my career sense is robotics, an area of artificial intelligence seen by a software engineer, which is what I learn in my free time. In addition to independent work, I volunteer where I teach children the basics of robotics and logical thinking, which allows me to transfer the acquired knowledge to others, developing and applying soft skills that I gradually developed in non-formal education, which you can see in my references.
- 
- - 🌱 I am currently learning to work at ABB RobotStudio, as well as the object-oriented programming language c ++ because it is most prevalent in the robotics industry, where I want to work as a software engineer.
-
 This github follows little part of my learning development, and I occasionally post larger projects that progress day by day in complexity. Wish me luck, and follow my progress. : D
 
   How to reach me:
