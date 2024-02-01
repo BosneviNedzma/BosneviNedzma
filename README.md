@@ -3,8 +3,6 @@ Hello stranger 👋
 This github follows little part of my learning development, and I occasionally post larger projects that progress day by day in complexity. Wish me luck, and follow my progress. : D
 
   How to reach me:
- [Instagram @nedzmabrr](https://www.instagram.com/nedzmabrr/)
-[Facebook @NedžmaBrkić](https://www.facebook.com/nedzma.brkic.1/)
 [LinkedIn @NedžmaBrkić](https://www.linkedin.com/in/ned%C5%BEma-brki%C4%87-116a37229/)
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BosneviNedzma&theme=gruvbox)
