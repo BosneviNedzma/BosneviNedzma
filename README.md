@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Nedžma Brkić</h1>
+<h1 align="center">Hello stranger/friend 👋, I'm Nedžma Brkić</h1>
 <h3 align="center">This github follows little part of my learning development, and I occasionally post larger projects that progress day by day in complexity. Wish me luck, and follow my progress.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bosnevinedzma&label=Profile%20views&color=0e75b6&style=flat" alt="bosnevinedzma" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bosnevinedzma" alt="bosnevinedzma" /></a> </p>
 
-- 🔭 I’m currently working on [Blog App](https://github.com/BosneviNedzma/BlogApp)
+- 🔭 I’m currently working on https://github.com/BosneviNedzma/MERN-Blog
 
 - 🌱 I’m currently learning **MERN stack**
 
