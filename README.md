@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bosnevinedzma" alt="bosnevinedzma" /></a> </p>
 
-- 🔭 I’m currently working on private project - online store app
+- 🔭 I’m currently working on private project - online store app. Follow the process on kanban board: https://github.com/users/BosneviNedzma/projects/6
 
 - 🌱 I’m currently learning **MERN stack**
 
