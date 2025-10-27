@@ -6,14 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bosnevinedzma" alt="bosnevinedzma" /></a> </p>
 
 - 🔭 I’m currently working on multi-vendor store. 
-Follow the process on kanban board: 
-https://github.com/users/BosneviNedzma/projects/6 
-and 
-https://github.com/BosneviNedzma/MERN-Multi-Vendor-Ecommerce
-
-- 🌱 I’m currently learning **MERN stack**
-
-- 💬 Ask me about **Node.js**
+Follow the process on kanban board:
 
 - 📫 How to reach me **brkic.nedzma.21@size.ba**
 
